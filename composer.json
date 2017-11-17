@@ -1,0 +1,13 @@
+{
+    "name": "bng5/phinx-gui",
+    "description": "GUI for Phinx",
+    "require": {
+        "robmorgan/phinx": "^0.9.1"
+    },
+    "authors": [
+        {
+            "name": "Pablo Bangueses",
+            "email": "pablo@bng5.net"
+        }
+    ]
+}
